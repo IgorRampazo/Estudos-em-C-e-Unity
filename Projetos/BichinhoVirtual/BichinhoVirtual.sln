@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BichinhoVirtual", "BichinhoVirtual.csproj", "{CBBDC0E1-32E3-4809-8AB3-C81443180013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBDC0E1-32E3-4809-8AB3-C81443180013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBDC0E1-32E3-4809-8AB3-C81443180013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBDC0E1-32E3-4809-8AB3-C81443180013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBDC0E1-32E3-4809-8AB3-C81443180013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D7D320-03A9-4B3C-8DA8-A817372F6217}
+	EndGlobalSection
+EndGlobal
